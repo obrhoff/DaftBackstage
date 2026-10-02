@@ -25,6 +25,10 @@ menu bar and starts with your Mac.
 The app is signed with a Developer ID and notarized by Apple. It is distributed here rather than
 on the App Store because capturing system audio is not something a sandboxed app is allowed to do.
 
+## What's new in 3.2
+
+- Fixed crackling sound on some Core Audio devices.
+
 ## Updating
 
 Daft Music tells you when a new version is out and links back here. Install the new build over the
